@@ -1,3 +1,7 @@
+![Labs](https://img.shields.io/badge/Labs-1%20concluído-1DB87A?style=flat)
+![Stack](https://img.shields.io/badge/Stack-Microsoft%20Entra%20ID-0078D4?style=flat&logo=microsoft)
+![Framework](https://img.shields.io/badge/Framework-Zero%20Trust-7C6FE0?style=flat)
+
 # azure-iam-labs
 
 Laboratórios práticos de Identity & Access Management no Microsoft Entra ID,
