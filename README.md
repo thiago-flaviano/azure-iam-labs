@@ -27,7 +27,10 @@ principais vetores de ataque em identidade corporativa.
 
 **Evidências:**
 
-> prints aqui — veja a seção abaixo
+![Política 1 - Block Legacy Auth](lab01-conditional-access/print-politica1.png)
+![Política 2 - Require MFA](lab01-conditional-access/print-politica2.png)
+![Política 3 - Block Countries](lab01-conditional-access/print-politica3.png)
+![Polítics](lab01-conditional-access/print-politicas.png)
 
 ---
 
